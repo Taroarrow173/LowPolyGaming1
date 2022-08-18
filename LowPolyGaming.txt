@@ -1,0 +1,10 @@
+1. Code enemy ais, one that stays afar and shoots and one that melees
+2. Make the player take damage and shit
+3. UI for mana, hp, stamina, and more
+4. Better hotbar or change UI?
+5. More sauce to the game like visual effects, learn vfx and shader graph
+6. More terrain
+7. Work on procedural gen?
+   -Add unique structures like a pub, a village
+   -Lava
+8. Probably wont work so make it yourself :(((
